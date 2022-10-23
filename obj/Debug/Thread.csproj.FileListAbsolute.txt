@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\bin\Debug\Thread.exe.config
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\bin\Debug\Thread.exe
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\bin\Debug\Thread.pdb
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.CreateThreadForm.resources
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.Form1.resources
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.Properties.Resources.resources
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.csproj.GenerateResource.cache
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.exe
+\\Mac\Home\Documents\programing\C#\DifferentTasks\Thread\Thread\obj\Debug\Thread.pdb
